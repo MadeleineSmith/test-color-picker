@@ -1,0 +1,12 @@
+
+{
+  "manifest_version": 3,
+  "name": "Color Picker Test",
+  "version": "1.0",
+  "description": "A simple extension to test Chrome's color picker behavior.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Test Color Picker"
+  },
+  "permissions": []
+}
